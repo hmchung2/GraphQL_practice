@@ -1,0 +1,13 @@
+ 2056  npm init -y
+
+ 2058  npm i apollo-server graphql
+
+ 2061  touch server.js
+ 
+ 2063  touch .gitignore
+
+ 2065  git init .
+
+ 2067  npm run dev
+ 2068  npm install nodemon --save-dev
+ 2069  npm run dev
